@@ -1,0 +1,35 @@
+.signIn{
+    background-image: url('../images/instabg.png') ;
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm{
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 18px;
+}
+
+.loginForm2{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 18px;
+}
+
+#login-btn{
+    background-color: #1773ea;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+  
+    cursor: pointer;
+    margin-top: 8px;
+}
